@@ -24,6 +24,9 @@ a {
 ul {
   list-style-type: none;
 }
+button{
+  cursor: pointer;
+}
 
 .container {
   margin: 0 auto;
@@ -315,7 +318,8 @@ footer {
   width: 496px;
   height: 201px;
 }
-.leftpro p{font-family: 'Roboto';
+.leftpro p{
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -339,6 +343,11 @@ footer {
   line-height: 19px;
   text-align: right;
   color: #FFFFFF;
+  transition: .6s;
+}
+.leftpro .btn:hover{
+  background-color: #FFFFFF;
+  color: #70C174;
 }
 .procards{
   height: 576px;
@@ -614,5 +623,90 @@ footer {
     padding-top: 20px;
     padding-bottom: 5px;
     color: white;
+  }
+  .pro{
+    max-width: 800px;
+    flex-wrap: wrap;
+    padding: 90px 60px;
+  }
+  .line{
+    margin-top: 0px;
+    margin-bottom: 8px;
+  }
+  .leftpro{
+    margin-right: 0px;
+  }
+  .leftpro span{
+    font-weight: 900px;
+    margin-bottom: 20px;
+  }
+  .leftpro h1{
+    font-size: 40px;
+    width: 400px;
+    height: 111px;
+  }
+  .leftpro p{
+    margin-bottom: 20px;
+  }
+  .procards{
+    margin-left: 0;
+    margin-top: 70px;
+  }
+  .procards h6{
+    font-size: 18px;
+  }
+
+  /* col25 */
+  .col25{
+    max-width: 800px;
+    padding-top: 70px;
+    padding-left: 60px;
+  }
+  .col25 h1{
+    font-size: 26px;
+    margin-left: 200px;
+  }
+  .col25 p{
+    /* max-width: 250px; */
+    margin-left: 100px;
+  }
+  .colcards{
+    padding-left: 0;
+    flex-wrap: wrap;
+    gap: 70px;
+  }
+  .colcards p{
+    margin-left: 0;
+  }
+  .event{
+    max-width: 800px;
+    padding-left: 60px;
+    margin-top: 50px;
+  }
+  .linee{
+    margin-top: 30px;
+    max-width: 500px;
+    border: 2px solid #E5E5E5;
+  }
+  .eventcards{
+    flex-direction: column;
+  }
+  .eventcard span{
+    font-size: 40px;
+  }
+  .r-even .next h5{
+    font-size: 30px;
+  }
+  .r-even .next .nline{
+    width: 60px;
+  }
+  .say{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 20px;
+  }
+  .say img{
+    width: 60px;
   }
 }
