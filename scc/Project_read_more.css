@@ -643,4 +643,74 @@ button{
     padding-bottom: 5px;
     color: white;
   }
+  main{
+    max-width: 800px;
+    padding: 90px 60px !important;
+    height: 1650px;
+  }
+  main h1{
+    font-size: 40px;
+    width: 500px;
+    height: 100px;
+    margin-top: 16px;
+    margin-left: 90px;
+    margin-bottom: 50px;
+  }
+  main p{
+    max-width: 600px;
+    margin-left: 90px;
+  }
+  main .imgmain{
+    margin-top: 80px;
+    max-width: 600px;
+    margin-left: 90px;
+  }
+  .some{
+    padding-left: 90px;
+  }
+  .some h2{
+    font-size: 38px;
+  }
+  .some ul{
+    margin-top: 60px;
+  }
+  .fragman{
+    padding: 50px 70px;
+    gap: 50px;
+  }
+  .fragmancard{
+    max-width: 300px;
+  }
+  .topfrag h4{
+    font-size: 20px;
+  }
+  .fragmancard p{
+    margin-left: 0;
+    font-size: 14px;
+    width: 300px;
+  }
+  .missioncards{
+    max-width: 800px;
+    padding: 90px 200px;
+    flex-direction: column;
+  }
+  .box{
+    max-width: 800px;
+    padding: 0;
+    padding-top: 90px;
+  }
+  .box h3{
+    font-size: 30px;
+    max-width: 400px;
+    height: 60px;
+    line-height: 40px;
+    margin: 0 auto;
+  }
+  .boxbtn{
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+  .boxbtn2{
+    margin-top: 20px;
+  }
 }
