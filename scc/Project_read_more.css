@@ -230,7 +230,6 @@ footer {
   font-size: 14px;
   line-height: 160%;
   color: #ccc;
-  opacity: 0.78;
   padding-top: 24px;
 }
 
@@ -440,7 +439,6 @@ main .imgmain{
   width: 411px;
   height: 421px;
   background: #0B0706;
-  opacity: 0.5;
   border-radius: 12px;
   padding: 80px 48px;
   background-image: url(../image/media/bg2.png);
@@ -499,7 +497,6 @@ main .imgmain{
   max-width: 1280px;
   margin: 0 auto;
   border-radius: 12px;
-  opacity: 0.5;
   border-radius: 12px;
   padding: 93px 325px;
   mix-blend-mode: normal;
