@@ -168,6 +168,262 @@ header {
 main {
   padding: 80px 0px 0px 0px;
 }
+.container{
+  
+    display: flex;
+    justify-content: center;
+    
+}
+.img{
+    font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #1D2130;
+margin-top: 96px;
+margin-left: 206px;
+}
+.we{
+    font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 120%;
+color: #1D2130;
+margin-top: 32px;
+margin-left: 206px;
+}
+.ipsum {
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+color: #525560;
+margin-top: 34px;
+margin-left: 206px;
+}
+.img1{
+    margin-top: 110px;
+    padding-left: 110px;
+}
+.ass{
+    background: #EFF7F2;
+    margin-top: 100px;
+}
+.what{
+    margin-top: 96px;
+    margin-left: 110px;
+}
+.build{
+    margin-top: 64px;
+    margin-left: 162px;
+}
+.icon{
+    margin-top: 64px;
+    margin-left: 110px;
+}
+.di{
+    display: flex;
+}
+.hav h4{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #1D2130;
+text-align: center;
+margin-top: 96px;
+}
+
+.hav h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    text-align: center;
+    color: #1D2130;
+    margin-top: 16px;
+    justify-content: center;
+}
+.img4{
+    display: flex;
+    margin-left: 110px;
+    gap: 24px;
+    margin-top: 64px;
+}
+.tree h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 150%;
+    color: #ffff;
+    margin-top: 80px;
+    
+}
+.uu{
+    margin-top: 36px;
+    justify-content: center;
+    gap: 30px;
+}
+.tree p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+margin-left: 160px;
+color: #ffff;
+margin-top: 15px;
+justify-content: space-between;
+
+}
+.tree{
+background-image:  url(../image/whatwe/img3.png);
+background-repeat: no-repeat;
+background-position: center;
+gap: 30px; 
+  
+}
+.uu{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+}
+.city{
+background: url(../image/whatwe/img4.png);
+background-repeat: no-repeat;
+}
+
+.city h3{
+    font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 150%;
+color: #FFFFFF;
+margin-left: 48px;
+padding: 60px;
+}
+.city p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+color: #FFFFFF;
+margin-left: 48px;
+padding: 46px;
+}
+.prog h3{
+    font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 150%;
+color: #FFFFFF;
+margin-left: 48px;
+padding: 39px;
+}
+.prog p{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+color: #FFFFFF;
+margin-left: 48px;
+padding: 46px;
+}
+.prog{
+    background: url(../image/whatwe/img5.png);
+    background-repeat: no-repeat;
+}
+.see{
+    width: 132px;
+height: 51px;
+left: 158px;
+top: 1850px;
+background: #FFFFFF;
+backdrop-filter: blur(40px);
+border-radius: 4px;
+margin-top: 60px;
+}
+.se{
+    background: #FFFFFF;
+    top: 1850px;
+    
+    backdrop-filter: blur(48px);
+    border-radius: 4px;
+    padding: 16px 32px; 
+}
+.mo{
+padding:16px 32px ;
+}
+.to{
+    margin: 189px;
+    margin-left: 300px;
+    padding: 93px ;
+
+}
+.make {
+    background-size: 100%;
+    
+    background-image: url(../image/whatwe/img6.png);
+    background-repeat: no-repeat;
+    
+}
+.vol{
+    width: 200px;
+height: 51px;
+left: 576px;
+top: 2286px;
+background: #70C174;
+backdrop-filter: blur(40px);
+border-radius: 4px;
+}
+.our1{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.a23{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 120%;
+    /* identical to box height, or 58px */
+    
+    font-variant: small-caps;
+    
+    /* Primary text */
+    
+    color: #1D2130;
+}
+.nex{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+letter-spacing: 2px;
+text-transform: uppercase;
+margin-left: 230px;
+/* Primary text */
+
+color: #1D2130;
+}
+.to{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 150%;
+color: #1D2130;
+margin-left: 230px;
+}
 
 /* main\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
 
