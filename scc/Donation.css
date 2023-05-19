@@ -54,7 +54,7 @@ header {
   margin-top: 17.5px;
 }
 
-.left-navbar>img {
+.left-navbar > img {
   width: 121px;
   height: 27px;
   padding: 0px 10px 0px 0px;
@@ -64,8 +64,7 @@ header {
   display: flex;
 }
 
-
-.left-navbar>p {
+.left-navbar > p {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -78,7 +77,7 @@ header {
   margin-top: 17.5px;
 }
 
-.center-navbar>a {
+.center-navbar > a {
   padding: 0px 20px;
   font-weight: 500;
   font-size: 16px;
@@ -92,7 +91,7 @@ header {
   margin-top: 17.5px;
 }
 
-.right-navbar>p {
+.right-navbar > p {
   padding: 0px 30px 0px 0px;
   font-weight: 500;
   font-size: 16px;
@@ -101,10 +100,10 @@ header {
   cursor: pointer;
 }
 
-.right-navbar>button {
+.right-navbar > button {
   width: 116px;
   height: 43px;
-  background-color: #1D2130;
+  background-color: #1d2130;
   border-radius: 4px;
   font-weight: 500;
   font-size: 16px;
@@ -121,17 +120,17 @@ header {
   display: none;
 }
 
-.menus>button {
+.menus > button {
   width: 30px;
   height: 30px;
   margin-top: 15px;
   margin-left: 10px;
   color: white;
-  background-color: #1D2130;
+  background-color: #1d2130;
   cursor: pointer;
 }
 
-.menus>button>i {
+.menus > button > i {
   font-size: 20px;
 }
 
@@ -143,14 +142,13 @@ header {
   display: flex;
 }
 
-
 #navbar-close {
   /* text-align: right; */
   width: 30px;
   height: 30px;
   /* transform: translate(300px, 14.5px); */
   color: white;
-  background-color: #1D2130;
+  background-color: #1d2130;
   cursor: pointer;
 }
 
@@ -158,27 +156,218 @@ header {
   font-size: 20px;
 }
 
-
-
-
-
-
 /* main\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
 
 main {
   padding: 80px 0px 0px 0px;
 }
 
+.hero-contenor {
+  background-color: #eff7f2;
+  height: 600px;
+}
+.p2 {
+  padding-top: 95px;
+  padding-left: 110px;
+}
+.p4 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 120%;
+  color: #1d2130;
+  margin-top: 30px;
+  padding-left: 207px;
+}
+.p5 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #525560;
+  margin-bottom: 14px;
+  padding-left: 206px;
+}
+.p6 {
+  background: #70c174;
+  backdrop-filter: blur(40px);
+  border-radius: 4px;
+  border: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 30px;
+  gap: 10px;
+  margin-top: 32px;
+}
+.p7 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: right;
+  color: #ffffff;
+}
+.card {
+  margin-bottom: 32px;
+  padding-left: 207px;
+}
+
+.p4 {
+  background-image: url("../image/donate.png");
+  background-repeat: no-repeat;
+  background-position: right top, center bottom, right center;
+  border-radius: 12px;
+  background-size: contain;
+  padding-left: 187px;
+  padding-right: 110px;
+  /*  padding-bottom: 96px;*/
+  padding-top: 96px;
+}
+
+.contents {
+  background: #ebe5e5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.p8 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 120%;
+  color: #1d2130;
+  padding-left: 110px;
+  padding-top: 96px;
+  padding-bottom: 24px;
+}
+.p9 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #525560;
+  padding-left: 110px;
+  margin-top: 24px;
+  padding-bottom: 96px;
+}
+.p10 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  color: #1d2130;
+  padding-left: 100px;
+  gap: 48px;
+  display: flex;
+}
+.p11 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  color: #525560;
+  gap: 48px;
+}
+.p12 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  color: #525560;
+
+  gap: 48px;
+  display: flex;
+}
+.p13 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #525560;
+  padding-right: 110px;
+}
+.taraf {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 124px;
+
+  padding-right: 110px;
+  gap: 48px;
+  /* margin-top: 17.5px;*/
+}
+.past {
+  justify-content: space-between;
+  padding-left: 96px;
+  padding-top: 32px;
+  padding-right: 110;
+}
+
+.cards {
+  justify-content: space-between;
+
+  background: #ebe5e5;
+  display: flex;
+}
+.p14 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 120%;
+  color: #1d2130;
+  padding-left: 110px;
+  padding-top: 96px;
+}
+.p15 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #525560;
+  padding-top: 96px;
+}
+.p16 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #525560;
+  padding-right: 120px;
+  padding-top: 96px;
+}
+.p17 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 120%;
+  text-align: center;
+  color: #ffffff;
+  padding-left: 325px;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  padding-left: 325px;
+  padding-right: 324px;
+}
 /* main\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
-
-
-
-
-
 
 footer {
   background-color: black;
-
 }
 
 .row {
@@ -187,7 +376,6 @@ footer {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-
 
   color: #f53855;
 }
@@ -220,7 +408,7 @@ footer {
   font-weight: 700;
   font-size: 16px;
   line-height: 160%;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .fmen {
@@ -241,7 +429,7 @@ footer {
   font-weight: 700;
   font-size: 40px;
   line-height: 140%;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .finput {
@@ -249,7 +437,7 @@ footer {
   margin-top: 32px;
 }
 
-.finput>input {
+.finput > input {
   padding: 22px 24px;
   background-color: transparent;
   color: white;
@@ -259,9 +447,7 @@ footer {
   border-radius: 4px;
 }
 
-
-
-.finput>button {
+.finput > button {
   transform: translateX(-10px);
   width: 164px;
   height: 64px;
@@ -269,24 +455,8 @@ footer {
   font-size: 16px;
   line-height: 19px;
   text-align: center;
-  color: #1D2130;
+  color: #1d2130;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width: 800px) {
   .center-navbar {
@@ -307,7 +477,7 @@ footer {
     transition: 0.5s;
   }
 
-  .button>i {
+  .button > i {
     font-size: 20px;
   }
 
