@@ -168,6 +168,117 @@ header {
 main {
   padding: 80px 0px 0px 0px;
 }
+.contianer{
+  max-width: 1280px;
+  display: flex;
+  
+border-radius: 0px;
+background-size: 100%;
+
+}
+label body {
+  display: block;
+}
+.ass{
+  background: #EBF0F9;
+
+}
+.we{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 120%;
+color: #1D2130;
+margin-left: 206px;
+margin-top: 150px;
+}
+.any{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+margin-top: 30px;
+color: #1D2130;
+margin-left: 206px;
+opacity: 0.7;
+margin-top: 16px;
+display: flex;
+}
+.let h1{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 160%;
+color: #1D2130;
+margin-left: 500px;
+margin-top: 100px;
+}
+.tel{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #1D2130;
+margin-top: 10px;
+margin-left: 500px;
+}
+.hello{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+margin-left: 500px;
+margin-top: 10px;
+/* Primary text */
+color: #1D2130;
+
+}
+.scc{
+  margin-left: 500px;
+  margin-top: 50px;
+}
+.jl{
+  margin-left: 975px;
+
+}
+.ema{
+margin-top: 40px;
+margin-left: 330px;
+}
+.firt{
+margin-top: 100px;
+margin-left: 330px;
+}
+.nam{
+  margin-top: 40px;
+  margin-left: 330px;
+}
+.masge
+{
+  margin-top: 40px;
+  margin-left: 330px;
+  
+}
+.sen{
+  position: absolute;
+width: 170px;
+height: 51px;
+left: 450px;
+top: 980px;
+background: #70C174;
+backdrop-filter: blur(40px);
+border-radius: 4px
+}
+.mao{
+  margin-top: 200px;
+  background-size: 100%;
+}
 
 /* main\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
 
